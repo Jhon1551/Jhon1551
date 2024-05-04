@@ -3,7 +3,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jhow1551@gmail.com)
 
-![Mauricio GitHub stats](https://github-readme-stats.vercel.app/api?username=mauriciobenjamin700&show_icons=true&theme=radical)
+![Mauricio GitHub stats](https://github-readme-stats.vercel.app/api?username=Jhon1551&show_icons=true&theme=radical)
 
 ### Technologies in my daily life
 
